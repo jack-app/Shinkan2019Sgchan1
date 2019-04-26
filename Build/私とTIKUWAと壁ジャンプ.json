@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Demonstratin",
+"dataUrl": "私とTIKUWAと壁ジャンプ.data.unityweb",
+"asmCodeUrl": "私とTIKUWAと壁ジャンプ.asm.code.unityweb",
+"asmMemoryUrl": "私とTIKUWAと壁ジャンプ.asm.memory.unityweb",
+"asmFrameworkUrl": "私とTIKUWAと壁ジャンプ.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
